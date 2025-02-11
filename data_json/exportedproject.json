@@ -1,0 +1,2915 @@
+{
+  "name" : "(MTI881-Team3) Annotation de publications médicales",
+  "slug" : "av00680",
+  "description" : "This project has no pre-defined layers. You will only be able to annotate after you have defined annotation layers in the project settings.",
+  "mode" : "ANNOTATION",
+  "version" : 1,
+  "source_documents" : [ {
+    "name" : "1_26316050.txt",
+    "format" : "text",
+    "state" : "CURATION_IN_PROGRESS",
+    "timestamp" : 1739205682633,
+    "created" : 1738209179766,
+    "updated" : 1739205682633
+  }, {
+    "name" : "1_27131339.txt",
+    "format" : "text",
+    "state" : "CURATION_IN_PROGRESS",
+    "timestamp" : 1739205662083,
+    "created" : 1738209179779,
+    "updated" : 1739205662084
+  }, {
+    "name" : "1_27236097.txt",
+    "format" : "text",
+    "state" : "CURATION_IN_PROGRESS",
+    "timestamp" : 1739205648066,
+    "created" : 1738209179786,
+    "updated" : 1739205648066
+  }, {
+    "name" : "1_27242865.txt",
+    "format" : "text",
+    "state" : "CURATION_IN_PROGRESS",
+    "timestamp" : 1739205644408,
+    "created" : 1738209179801,
+    "updated" : 1739205644408
+  }, {
+    "name" : "1_27251800.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1738209179812,
+    "updated" : 1738771195800
+  }, {
+    "name" : "1_27256373.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1738209179834,
+    "updated" : 1738771196746
+  }, {
+    "name" : "1_27260450.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1738209179848,
+    "updated" : 1738771199096
+  }, {
+    "name" : "1_27267962.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1738209179857,
+    "updated" : 1738803057941
+  }, {
+    "name" : "1_27274524.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1738209179870,
+    "updated" : 1738803669371
+  }, {
+    "name" : "1_27282454.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1738209179893,
+    "updated" : 1738767068834
+  }, {
+    "name" : "1_27291966.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1738209179904,
+    "updated" : 1738766499152
+  }, {
+    "name" : "1_27297967.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1738209179922,
+    "updated" : 1738762513175
+  }, {
+    "name" : "1_27303047.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1738209179935,
+    "updated" : 1738804222838
+  }, {
+    "name" : "1_27311447.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209179960,
+    "updated" : 1738209179960
+  }, {
+    "name" : "1_27317655.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209179982,
+    "updated" : 1738209179982
+  }, {
+    "name" : "1_27324249.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209179997,
+    "updated" : 1738209179997
+  }, {
+    "name" : "1_27333594.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209180011,
+    "updated" : 1738209180011
+  }, {
+    "name" : "1_27338800.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209180034,
+    "updated" : 1738209180034
+  }, {
+    "name" : "1_27345009.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209180054,
+    "updated" : 1738209180054
+  }, {
+    "name" : "1_27349365.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209180071,
+    "updated" : 1738209180071
+  }, {
+    "name" : "1_27356521.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209180091,
+    "updated" : 1738209180091
+  }, {
+    "name" : "1_27364111.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209180106,
+    "updated" : 1738209180106
+  }, {
+    "name" : "1_27372861.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209180123,
+    "updated" : 1738209180123
+  }, {
+    "name" : "1_27378064.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209180145,
+    "updated" : 1738209180145
+  }, {
+    "name" : "1_27384421.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209180165,
+    "updated" : 1738209180165
+  }, {
+    "name" : "1_27391592.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209180188,
+    "updated" : 1738209180188
+  }, {
+    "name" : "1_27398974.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209180209,
+    "updated" : 1738209180209
+  }, {
+    "name" : "1_27405584.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209180303,
+    "updated" : 1738209180303
+  }, {
+    "name" : "1_27412534.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209180337,
+    "updated" : 1738209180337
+  }, {
+    "name" : "1_27422142.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209180372,
+    "updated" : 1738209180372
+  }, {
+    "name" : "1_27430924.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209180396,
+    "updated" : 1738209180396
+  }, {
+    "name" : "1_27436635.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209180415,
+    "updated" : 1738209180415
+  }, {
+    "name" : "1_27441507.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209180429,
+    "updated" : 1738209180429
+  }, {
+    "name" : "1_27445450.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209180438,
+    "updated" : 1738209180438
+  }, {
+    "name" : "1_27456018.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209180451,
+    "updated" : 1738209180451
+  }, {
+    "name" : "1_27463942.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209180459,
+    "updated" : 1738209180459
+  }, {
+    "name" : "1_27468236.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209180471,
+    "updated" : 1738209180471
+  }, {
+    "name" : "1_27473877.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209180488,
+    "updated" : 1738209180488
+  }, {
+    "name" : "1_27479571.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209180507,
+    "updated" : 1738209180507
+  }, {
+    "name" : "1_27484439.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209180519,
+    "updated" : 1738209180519
+  }, {
+    "name" : "1_27489143.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209180533,
+    "updated" : 1738209180533
+  }, {
+    "name" : "1_27494906.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209180544,
+    "updated" : 1738209180544
+  }, {
+    "name" : "1_27500809.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209180555,
+    "updated" : 1738209180555
+  }, {
+    "name" : "1_27506129.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209180566,
+    "updated" : 1738209180566
+  }, {
+    "name" : "1_27511525.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209180575,
+    "updated" : 1738209180575
+  }, {
+    "name" : "1_27515958.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209180589,
+    "updated" : 1738209180589
+  }, {
+    "name" : "1_27524031.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209180599,
+    "updated" : 1738209180599
+  }, {
+    "name" : "1_27532629.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209180612,
+    "updated" : 1738209180612
+  }, {
+    "name" : "1_27537689.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209180624,
+    "updated" : 1738209180624
+  }, {
+    "name" : "1_27544926.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209180641,
+    "updated" : 1738209180641
+  }, {
+    "name" : "1_27551992.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209180652,
+    "updated" : 1738209180652
+  }, {
+    "name" : "1_27559131.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209180692,
+    "updated" : 1738209180692
+  }, {
+    "name" : "1_27566564.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209180747,
+    "updated" : 1738209180747
+  }, {
+    "name" : "1_27570955.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209180761,
+    "updated" : 1738209180761
+  }, {
+    "name" : "1_27576608.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209180778,
+    "updated" : 1738209180778
+  }, {
+    "name" : "1_27582280.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209180790,
+    "updated" : 1738209180790
+  }, {
+    "name" : "1_27591146.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209180815,
+    "updated" : 1738209180815
+  }, {
+    "name" : "1_27598472.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209180835,
+    "updated" : 1738209180835
+  }, {
+    "name" : "1_27603917.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209180853,
+    "updated" : 1738209180853
+  }, {
+    "name" : "1_27610042.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209180866,
+    "updated" : 1738209180866
+  }, {
+    "name" : "1_27614652.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209180879,
+    "updated" : 1738209180879
+  }, {
+    "name" : "1_27619227.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209180892,
+    "updated" : 1738209180892
+  }, {
+    "name" : "1_27624142.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209180909,
+    "updated" : 1738209180909
+  }, {
+    "name" : "1_27630041.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209180922,
+    "updated" : 1738209180922
+  }, {
+    "name" : "1_27635073.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209180934,
+    "updated" : 1738209180934
+  }, {
+    "name" : "1_27642003.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209180948,
+    "updated" : 1738209180948
+  }, {
+    "name" : "1_27646607.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209180963,
+    "updated" : 1738209180963
+  }, {
+    "name" : "1_27651569.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209180980,
+    "updated" : 1738209180980
+  }, {
+    "name" : "1_27656399.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209181001,
+    "updated" : 1738209181001
+  }, {
+    "name" : "1_27660844.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209181019,
+    "updated" : 1738209181019
+  }, {
+    "name" : "2_27668791.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209181040,
+    "updated" : 1738209181040
+  }, {
+    "name" : "2_27677368.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209181059,
+    "updated" : 1738209181059
+  }, {
+    "name" : "2_27682141.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209181077,
+    "updated" : 1738209181077
+  }, {
+    "name" : "2_27688423.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209181149,
+    "updated" : 1738209181149
+  }, {
+    "name" : "2_27693393.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209181178,
+    "updated" : 1738209181178
+  }, {
+    "name" : "2_27698544.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209181196,
+    "updated" : 1738209181196
+  }, {
+    "name" : "2_27713074.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209181216,
+    "updated" : 1738209181216
+  }, {
+    "name" : "2_27718772.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209181227,
+    "updated" : 1738209181227
+  }, {
+    "name" : "2_27734729.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209181250,
+    "updated" : 1738209181250
+  }, {
+    "name" : "2_27742821.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209181270,
+    "updated" : 1738209181270
+  }, {
+    "name" : "2_27748824.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209181283,
+    "updated" : 1738209181283
+  }, {
+    "name" : "2_27755168.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209181298,
+    "updated" : 1738209181298
+  }, {
+    "name" : "2_27760732.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209181311,
+    "updated" : 1738209181311
+  }, {
+    "name" : "2_27766286.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209181327,
+    "updated" : 1738209181327
+  }, {
+    "name" : "2_27771784.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209181341,
+    "updated" : 1738209181341
+  }, {
+    "name" : "2_27777102.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209181355,
+    "updated" : 1738209181355
+  }, {
+    "name" : "2_27781405.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209181371,
+    "updated" : 1738209181371
+  }, {
+    "name" : "2_27788427.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209181389,
+    "updated" : 1738209181389
+  }, {
+    "name" : "2_27794081.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209181399,
+    "updated" : 1738209181399
+  }, {
+    "name" : "2_27798341.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209181409,
+    "updated" : 1738209181409
+  }, {
+    "name" : "2_27802488.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209181421,
+    "updated" : 1738209181421
+  }, {
+    "name" : "2_27808258.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209181435,
+    "updated" : 1738209181435
+  }, {
+    "name" : "2_27813599.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209181447,
+    "updated" : 1738209181447
+  }, {
+    "name" : "2_27821359.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209181486,
+    "updated" : 1738209181486
+  }, {
+    "name" : "2_27828791.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209181497,
+    "updated" : 1738209181497
+  }, {
+    "name" : "2_27832581.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209181538,
+    "updated" : 1738209181538
+  }, {
+    "name" : "2_27840085.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209181558,
+    "updated" : 1738209181558
+  }, {
+    "name" : "2_27847549.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209181575,
+    "updated" : 1738209181575
+  }, {
+    "name" : "2_27853255.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209181585,
+    "updated" : 1738209181585
+  }, {
+    "name" : "2_27859167.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209181605,
+    "updated" : 1738209181605
+  }, {
+    "name" : "2_27864600.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209181619,
+    "updated" : 1738209181619
+  }, {
+    "name" : "2_27869664.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209181642,
+    "updated" : 1738209181642
+  }, {
+    "name" : "2_27875058.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209181663,
+    "updated" : 1738209181663
+  }, {
+    "name" : "2_27887778.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209181683,
+    "updated" : 1738209181683
+  }, {
+    "name" : "2_27894019.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209181701,
+    "updated" : 1738209181701
+  }, {
+    "name" : "2_27899295.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209181721,
+    "updated" : 1738209181721
+  }, {
+    "name" : "2_27905097.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209181749,
+    "updated" : 1738209181749
+  }, {
+    "name" : "2_27909557.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209181770,
+    "updated" : 1738209181770
+  }, {
+    "name" : "2_27917468.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209181791,
+    "updated" : 1738209181791
+  }, {
+    "name" : "2_27923741.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209181814,
+    "updated" : 1738209181814
+  }, {
+    "name" : "2_27928742.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209181841,
+    "updated" : 1738209181841
+  }, {
+    "name" : "2_27940576.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209181869,
+    "updated" : 1738209181869
+  }, {
+    "name" : "2_27942974.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209181889,
+    "updated" : 1738209181889
+  }, {
+    "name" : "2_27973380.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209181904,
+    "updated" : 1738209181904
+  }, {
+    "name" : "2_27980739.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209181922,
+    "updated" : 1738209181922
+  }, {
+    "name" : "2_27988342.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209181943,
+    "updated" : 1738209181943
+  }, {
+    "name" : "2_27994743.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209181961,
+    "updated" : 1738209181961
+  }, {
+    "name" : "2_28002021.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209181982,
+    "updated" : 1738209181982
+  }, {
+    "name" : "2_28005254.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209181998,
+    "updated" : 1738209181998
+  }, {
+    "name" : "2_28011843.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209182025,
+    "updated" : 1738209182025
+  }, {
+    "name" : "2_28025224.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209182089,
+    "updated" : 1738209182089
+  }, {
+    "name" : "2_28034730.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209182115,
+    "updated" : 1738209182115
+  }, {
+    "name" : "2_28042952.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209182127,
+    "updated" : 1738209182127
+  }, {
+    "name" : "2_28054379.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209182145,
+    "updated" : 1738209182145
+  }, {
+    "name" : "2_28058258.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209182167,
+    "updated" : 1738209182167
+  }, {
+    "name" : "2_28063948.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209182190,
+    "updated" : 1738209182190
+  }, {
+    "name" : "2_28068871.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209182220,
+    "updated" : 1738209182220
+  }, {
+    "name" : "2_28073509.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209182241,
+    "updated" : 1738209182241
+  }, {
+    "name" : "2_28077772.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209182267,
+    "updated" : 1738209182267
+  }, {
+    "name" : "2_28084862.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1738209182295,
+    "updated" : 1738789524690
+  }, {
+    "name" : "2_28088318.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1738209182320,
+    "updated" : 1738788098058
+  }, {
+    "name" : "2_28093699.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1738209182342,
+    "updated" : 1738787454530
+  }, {
+    "name" : "2_28099237.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1738209182358,
+    "updated" : 1738787252930
+  }, {
+    "name" : "2_28103878.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1738209182383,
+    "updated" : 1738787091569
+  }, {
+    "name" : "2_28108610.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1738209182404,
+    "updated" : 1738779082805
+  }, {
+    "name" : "2_28113047.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1738209182418,
+    "updated" : 1738778799949
+  }, {
+    "name" : "2_28118773.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1738209182431,
+    "updated" : 1738778605778
+  }, {
+    "name" : "2_28123739.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1738209182457,
+    "updated" : 1738778412513
+  }, {
+    "name" : "2_28128305.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1738209182478,
+    "updated" : 1738778387336
+  }, {
+    "name" : "2_28133644.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1738209182496,
+    "updated" : 1738778099357
+  }, {
+    "name" : "3_28147376.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1738209182511,
+    "updated" : 1738791807459
+  }, {
+    "name" : "3_28155918.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1738209182522,
+    "updated" : 1738793979186
+  }, {
+    "name" : "3_28162764.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1738209182539,
+    "updated" : 1738794283394
+  }, {
+    "name" : "3_28167866.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1738209182553,
+    "updated" : 1738794505557
+  }, {
+    "name" : "3_28179361.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1738209182569,
+    "updated" : 1738794658092
+  }, {
+    "name" : "3_28183348.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1738209182581,
+    "updated" : 1738795043470
+  }, {
+    "name" : "3_28190392.txt",
+    "format" : "text",
+    "state" : "CURATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1738209182597,
+    "updated" : 1739210771888
+  }, {
+    "name" : "3_28195652.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209182610,
+    "updated" : 1738209182610
+  }, {
+    "name" : "3_28203067.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209182622,
+    "updated" : 1738209182622
+  }, {
+    "name" : "3_28210010.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209182636,
+    "updated" : 1738209182636
+  }, {
+    "name" : "3_28215490.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209182651,
+    "updated" : 1738209182651
+  }, {
+    "name" : "3_28222010.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209182661,
+    "updated" : 1738209182661
+  }, {
+    "name" : "3_28229097.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209182672,
+    "updated" : 1738209182672
+  }, {
+    "name" : "3_28235120.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209182690,
+    "updated" : 1738209182690
+  }, {
+    "name" : "3_28243923.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209182705,
+    "updated" : 1738209182705
+  }, {
+    "name" : "3_28248564.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209182719,
+    "updated" : 1738209182719
+  }, {
+    "name" : "3_28262340.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209182731,
+    "updated" : 1738209182731
+  }, {
+    "name" : "3_28266784.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209182749,
+    "updated" : 1738209182749
+  }, {
+    "name" : "3_28269955.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209182761,
+    "updated" : 1738209182761
+  }, {
+    "name" : "3_28274070.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209182778,
+    "updated" : 1738209182778
+  }, {
+    "name" : "3_28278150.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209182793,
+    "updated" : 1738209182793
+  }, {
+    "name" : "3_28282614.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209182812,
+    "updated" : 1738209182812
+  }, {
+    "name" : "3_28286021.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209182842,
+    "updated" : 1738209182842
+  }, {
+    "name" : "3_28291473.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209182859,
+    "updated" : 1738209182859
+  }, {
+    "name" : "3_28296818.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209182890,
+    "updated" : 1738209182890
+  }, {
+    "name" : "3_28301539.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209182911,
+    "updated" : 1738209182911
+  }, {
+    "name" : "3_28316973.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209182936,
+    "updated" : 1738209182936
+  }, {
+    "name" : "3_28322666.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209182959,
+    "updated" : 1738209182959
+  }, {
+    "name" : "3_28328136.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209182983,
+    "updated" : 1738209182983
+  }, {
+    "name" : "3_28333189.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209183000,
+    "updated" : 1738209183000
+  }, {
+    "name" : "3_28339013.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209183014,
+    "updated" : 1738209183014
+  }, {
+    "name" : "3_28341903.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209183033,
+    "updated" : 1738209183033
+  }, {
+    "name" : "3_28347282.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209183059,
+    "updated" : 1738209183059
+  }, {
+    "name" : "3_28351807.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209183077,
+    "updated" : 1738209183077
+  }, {
+    "name" : "3_28358234.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209183097,
+    "updated" : 1738209183097
+  }, {
+    "name" : "3_28362864.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209183122,
+    "updated" : 1738209183122
+  }, {
+    "name" : "3_28370352.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209183140,
+    "updated" : 1738209183140
+  }, {
+    "name" : "3_28375743.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209183155,
+    "updated" : 1738209183155
+  }, {
+    "name" : "3_28381295.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209183180,
+    "updated" : 1738209183180
+  }, {
+    "name" : "3_28386687.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209183199,
+    "updated" : 1738209183199
+  }, {
+    "name" : "3_28389983.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209183217,
+    "updated" : 1738209183217
+  }, {
+    "name" : "3_28394042.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209183230,
+    "updated" : 1738209183230
+  }, {
+    "name" : "3_28399452.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209183250,
+    "updated" : 1738209183250
+  }, {
+    "name" : "3_28403239.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209183271,
+    "updated" : 1738209183271
+  }, {
+    "name" : "3_28408903.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209183288,
+    "updated" : 1738209183288
+  }, {
+    "name" : "3_28413643.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209183306,
+    "updated" : 1738209183306
+  }, {
+    "name" : "3_28419641.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209183320,
+    "updated" : 1738209183320
+  }, {
+    "name" : "3_28424445.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209183335,
+    "updated" : 1738209183335
+  }, {
+    "name" : "3_28429354.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209183346,
+    "updated" : 1738209183346
+  }, {
+    "name" : "3_28433214.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209183364,
+    "updated" : 1738209183364
+  }, {
+    "name" : "3_28437457.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209183381,
+    "updated" : 1738209183381
+  }, {
+    "name" : "3_28442243.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209183393,
+    "updated" : 1738209183393
+  }, {
+    "name" : "3_28447828.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209183411,
+    "updated" : 1738209183411
+  }, {
+    "name" : "3_28452185.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209183497,
+    "updated" : 1738209183497
+  }, {
+    "name" : "3_28457522.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209183509,
+    "updated" : 1738209183509
+  }, {
+    "name" : "3_28460474.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209183522,
+    "updated" : 1738209183522
+  }, {
+    "name" : "3_28465195.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209183576,
+    "updated" : 1738209183576
+  }, {
+    "name" : "3_28469987.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209183600,
+    "updated" : 1738209183600
+  }, {
+    "name" : "3_28477843.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209183615,
+    "updated" : 1738209183615
+  }, {
+    "name" : "3_28483455.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209183626,
+    "updated" : 1738209183626
+  }, {
+    "name" : "3_28497106.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209183646,
+    "updated" : 1738209183646
+  }, {
+    "name" : "3_28502652.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209183662,
+    "updated" : 1738209183662
+  }, {
+    "name" : "3_28508214.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209183674,
+    "updated" : 1738209183674
+  }, {
+    "name" : "3_28514301.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209183689,
+    "updated" : 1738209183689
+  }, {
+    "name" : "3_28521676.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209183710,
+    "updated" : 1738209183710
+  }, {
+    "name" : "3_28526816.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209183737,
+    "updated" : 1738209183737
+  }, {
+    "name" : "3_28532912.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209183749,
+    "updated" : 1738209183749
+  }, {
+    "name" : "3_28538498.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209183767,
+    "updated" : 1738209183767
+  }, {
+    "name" : "3_28544215.txt",
+    "format" : "text",
+    "state" : "NEW",
+    "timestamp" : null,
+    "created" : 1738209183785,
+    "updated" : 1738209183785
+  }, {
+    "name" : "3_28549178.txt",
+    "format" : "text",
+    "state" : "ANNOTATION_IN_PROGRESS",
+    "timestamp" : null,
+    "created" : 1738209183807,
+    "updated" : 1738686205812
+  }, {
+    "name" : "common_27449845.txt",
+    "format" : "text",
+    "state" : "CURATION_FINISHED",
+    "timestamp" : 1739210773342,
+    "created" : 1738209183824,
+    "updated" : 1739210773342
+  }, {
+    "name" : "common_27706165.txt",
+    "format" : "text",
+    "state" : "CURATION_FINISHED",
+    "timestamp" : 1739210774280,
+    "created" : 1738209183838,
+    "updated" : 1739210774281
+  }, {
+    "name" : "common_27725796.txt",
+    "format" : "text",
+    "state" : "CURATION_FINISHED",
+    "timestamp" : 1739210826205,
+    "created" : 1738209183852,
+    "updated" : 1739210826205
+  }, {
+    "name" : "common_27882066.txt",
+    "format" : "text",
+    "state" : "CURATION_FINISHED",
+    "timestamp" : 1739212154202,
+    "created" : 1738209183870,
+    "updated" : 1739212164355
+  }, {
+    "name" : "common_27935120.txt",
+    "format" : "text",
+    "state" : "CURATION_FINISHED",
+    "timestamp" : 1739212420136,
+    "created" : 1738209183893,
+    "updated" : 1739212423345
+  }, {
+    "name" : "common_28139665.txt",
+    "format" : "text",
+    "state" : "CURATION_FINISHED",
+    "timestamp" : 1739212502219,
+    "created" : 1738209183910,
+    "updated" : 1739212508636
+  }, {
+    "name" : "common_28239424.txt",
+    "format" : "text",
+    "state" : "CURATION_FINISHED",
+    "timestamp" : 1739212580104,
+    "created" : 1738209183930,
+    "updated" : 1739212583700
+  }, {
+    "name" : "common_28253085.txt",
+    "format" : "text",
+    "state" : "CURATION_FINISHED",
+    "timestamp" : 1739212744330,
+    "created" : 1738209183947,
+    "updated" : 1739212749245
+  }, {
+    "name" : "common_28472931.txt",
+    "format" : "text",
+    "state" : "CURATION_FINISHED",
+    "timestamp" : 1739212815147,
+    "created" : 1738209183967,
+    "updated" : 1739212818723
+  }, {
+    "name" : "common_28490813.txt",
+    "format" : "text",
+    "state" : "CURATION_FINISHED",
+    "timestamp" : 1739248509412,
+    "created" : 1738209183982,
+    "updated" : 1739248509412
+  } ],
+  "annotation_documents" : [ {
+    "name" : "1_26316050.txt",
+    "user" : "AU78760",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1738212528891,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738212483316,
+    "updated" : 1738802353928
+  }, {
+    "name" : "common_28139665.txt",
+    "user" : "AU78760",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1738212860813,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738212860789,
+    "updated" : 1738212860813
+  }, {
+    "name" : "1_26316050.txt",
+    "user" : "AV00440",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1738609015364,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738247038845,
+    "updated" : 1738609015365
+  }, {
+    "name" : "1_26316050.txt",
+    "user" : "AU90360",
+    "state" : "FINISHED",
+    "timestamp" : 1738612630782,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738249960878,
+    "updated" : 1738725363257
+  }, {
+    "name" : "common_27449845.txt",
+    "user" : "AU90360",
+    "state" : "FINISHED",
+    "timestamp" : 1738614727244,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738612639049,
+    "updated" : 1738686203939
+  }, {
+    "name" : "common_27706165.txt",
+    "user" : "AU90360",
+    "state" : "FINISHED",
+    "timestamp" : 1738621862058,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738612926985,
+    "updated" : 1738686200402
+  }, {
+    "name" : "common_27449845.txt",
+    "user" : "AV00440",
+    "state" : "FINISHED",
+    "timestamp" : 1738614706009,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738612968422,
+    "updated" : 1738614714630
+  }, {
+    "name" : "common_27706165.txt",
+    "user" : "AV00440",
+    "state" : "FINISHED",
+    "timestamp" : 1738775257725,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738614724325,
+    "updated" : 1738775276908
+  }, {
+    "name" : "common_27725796.txt",
+    "user" : "AU90360",
+    "state" : "FINISHED",
+    "timestamp" : 1738623191616,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738620016717,
+    "updated" : 1738686197532
+  }, {
+    "name" : "common_27882066.txt",
+    "user" : "AU90360",
+    "state" : "FINISHED",
+    "timestamp" : 1738686164359,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738620020618,
+    "updated" : 1738686168157
+  }, {
+    "name" : "common_27935120.txt",
+    "user" : "AU90360",
+    "state" : "FINISHED",
+    "timestamp" : 1738688064549,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738620021811,
+    "updated" : 1738688597571
+  }, {
+    "name" : "common_28139665.txt",
+    "user" : "AU90360",
+    "state" : "FINISHED",
+    "timestamp" : 1738689075272,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738620023412,
+    "updated" : 1738689078420
+  }, {
+    "name" : "common_28239424.txt",
+    "user" : "AU90360",
+    "state" : "FINISHED",
+    "timestamp" : 1738719129412,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738620024295,
+    "updated" : 1738720322748
+  }, {
+    "name" : "common_28253085.txt",
+    "user" : "AU90360",
+    "state" : "FINISHED",
+    "timestamp" : 1738719654533,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738620025227,
+    "updated" : 1738720318426
+  }, {
+    "name" : "common_28472931.txt",
+    "user" : "AU90360",
+    "state" : "FINISHED",
+    "timestamp" : 1738720246896,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738620026260,
+    "updated" : 1738720310288
+  }, {
+    "name" : "common_28490813.txt",
+    "user" : "AU90360",
+    "state" : "FINISHED",
+    "timestamp" : 1738725278758,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738620027162,
+    "updated" : 1738725282274
+  }, {
+    "name" : "3_28549178.txt",
+    "user" : "AU90360",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1738686205796,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738686205771,
+    "updated" : 1738686205796
+  }, {
+    "name" : "1_26316050.txt",
+    "user" : "AV45040",
+    "state" : "FINISHED",
+    "timestamp" : 1738710910211,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738701751015,
+    "updated" : 1738710998376
+  }, {
+    "name" : "1_27131339.txt",
+    "user" : "AV45040",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1738711802580,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738711120679,
+    "updated" : 1738711802581
+  }, {
+    "name" : "1_27131339.txt",
+    "user" : "AU90360",
+    "state" : "FINISHED",
+    "timestamp" : 1738726827139,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738725364951,
+    "updated" : 1738726848957
+  }, {
+    "name" : "1_27236097.txt",
+    "user" : "AU90360",
+    "state" : "FINISHED",
+    "timestamp" : 1738770455794,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738726850633,
+    "updated" : 1738771182757
+  }, {
+    "name" : "1_27242865.txt",
+    "user" : "AV45040",
+    "state" : "FINISHED",
+    "timestamp" : 1738762471306,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738761498341,
+    "updated" : 1738762493182
+  }, {
+    "name" : "1_27297967.txt",
+    "user" : "AV45040",
+    "state" : "FINISHED",
+    "timestamp" : 1738766453227,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738762513125,
+    "updated" : 1738766491110
+  }, {
+    "name" : "1_27291966.txt",
+    "user" : "AV45040",
+    "state" : "FINISHED",
+    "timestamp" : 1738767046397,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738766499113,
+    "updated" : 1738767063757
+  }, {
+    "name" : "1_27282454.txt",
+    "user" : "AV45040",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1738767068815,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738767068794,
+    "updated" : 1738767068815
+  }, {
+    "name" : "common_28490813.txt",
+    "user" : "AV45040",
+    "state" : "FINISHED",
+    "timestamp" : 1738771553355,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738770633081,
+    "updated" : 1738771555036
+  }, {
+    "name" : "1_27242865.txt",
+    "user" : "AU90360",
+    "state" : "FINISHED",
+    "timestamp" : 1738772471369,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738771180196,
+    "updated" : 1738772609150
+  }, {
+    "name" : "1_27251800.txt",
+    "user" : "AU90360",
+    "state" : "FINISHED",
+    "timestamp" : 1738775135860,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738771195749,
+    "updated" : 1738775167821
+  }, {
+    "name" : "1_27256373.txt",
+    "user" : "AU90360",
+    "state" : "FINISHED",
+    "timestamp" : 1738771196730,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738771196709,
+    "updated" : 1738775302912
+  }, {
+    "name" : "1_27260450.txt",
+    "user" : "AU90360",
+    "state" : "FINISHED",
+    "timestamp" : 1738803027884,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738771199059,
+    "updated" : 1738803056578
+  }, {
+    "name" : "common_28472931.txt",
+    "user" : "AV45040",
+    "state" : "FINISHED",
+    "timestamp" : 1738772505838,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738771850677,
+    "updated" : 1738772512850
+  }, {
+    "name" : "common_28253085.txt",
+    "user" : "AV45040",
+    "state" : "FINISHED",
+    "timestamp" : 1738773169952,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738772823612,
+    "updated" : 1738773208130
+  }, {
+    "name" : "common_28239424.txt",
+    "user" : "AV45040",
+    "state" : "FINISHED",
+    "timestamp" : 1738775138745,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738773220902,
+    "updated" : 1738775146359
+  }, {
+    "name" : "common_28139665.txt",
+    "user" : "AV45040",
+    "state" : "FINISHED",
+    "timestamp" : 1738776498643,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738775155800,
+    "updated" : 1738776512282
+  }, {
+    "name" : "common_27725796.txt",
+    "user" : "AV00440",
+    "state" : "FINISHED",
+    "timestamp" : 1738775933543,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738775284406,
+    "updated" : 1738776051574
+  }, {
+    "name" : "common_27882066.txt",
+    "user" : "AV00440",
+    "state" : "FINISHED",
+    "timestamp" : 1738784610332,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738776064548,
+    "updated" : 1738784616845
+  }, {
+    "name" : "common_27935120.txt",
+    "user" : "AV45040",
+    "state" : "FINISHED",
+    "timestamp" : 1738776846279,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738776542642,
+    "updated" : 1738776859565
+  }, {
+    "name" : "common_27882066.txt",
+    "user" : "AV45040",
+    "state" : "FINISHED",
+    "timestamp" : 1738777234097,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738776874275,
+    "updated" : 1738777246742
+  }, {
+    "name" : "common_27725796.txt",
+    "user" : "AV45040",
+    "state" : "FINISHED",
+    "timestamp" : 1738777376572,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738777258608,
+    "updated" : 1738777386348
+  }, {
+    "name" : "common_27706165.txt",
+    "user" : "AV45040",
+    "state" : "FINISHED",
+    "timestamp" : 1738777974884,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738777393890,
+    "updated" : 1738777999909
+  }, {
+    "name" : "common_27449845.txt",
+    "user" : "AV45040",
+    "state" : "FINISHED",
+    "timestamp" : 1738778076046,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738778009526,
+    "updated" : 1738778078244
+  }, {
+    "name" : "2_28133644.txt",
+    "user" : "AV45040",
+    "state" : "FINISHED",
+    "timestamp" : 1738778367106,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738778099319,
+    "updated" : 1738778370783
+  }, {
+    "name" : "2_28128305.txt",
+    "user" : "AV45040",
+    "state" : "FINISHED",
+    "timestamp" : 1738778387320,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738778387296,
+    "updated" : 1738778400678
+  }, {
+    "name" : "2_28123739.txt",
+    "user" : "AV45040",
+    "state" : "FINISHED",
+    "timestamp" : 1738778590409,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738778412471,
+    "updated" : 1738778597938
+  }, {
+    "name" : "2_28118773.txt",
+    "user" : "AV45040",
+    "state" : "FINISHED",
+    "timestamp" : 1738778769588,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738778605735,
+    "updated" : 1738778782901
+  }, {
+    "name" : "2_28113047.txt",
+    "user" : "AV45040",
+    "state" : "FINISHED",
+    "timestamp" : 1738779049837,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738778799909,
+    "updated" : 1738779057790
+  }, {
+    "name" : "2_28108610.txt",
+    "user" : "AV45040",
+    "state" : "FINISHED",
+    "timestamp" : 1738781118718,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738779082763,
+    "updated" : 1738781130008
+  }, {
+    "name" : "common_27935120.txt",
+    "user" : "AV00440",
+    "state" : "FINISHED",
+    "timestamp" : 1738785189063,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738784406276,
+    "updated" : 1738785193735
+  }, {
+    "name" : "common_28139665.txt",
+    "user" : "AV00440",
+    "state" : "FINISHED",
+    "timestamp" : 1738786351929,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738785197296,
+    "updated" : 1738786386261
+  }, {
+    "name" : "common_28239424.txt",
+    "user" : "AV00440",
+    "state" : "FINISHED",
+    "timestamp" : 1738789152400,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738786437751,
+    "updated" : 1738789195050
+  }, {
+    "name" : "2_28103878.txt",
+    "user" : "AV45040",
+    "state" : "FINISHED",
+    "timestamp" : 1738787226500,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738787091527,
+    "updated" : 1738787237802
+  }, {
+    "name" : "2_28099237.txt",
+    "user" : "AV45040",
+    "state" : "FINISHED",
+    "timestamp" : 1738787425637,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738787252889,
+    "updated" : 1738787444543
+  }, {
+    "name" : "2_28093699.txt",
+    "user" : "AV45040",
+    "state" : "FINISHED",
+    "timestamp" : 1738788063484,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738787454488,
+    "updated" : 1738788088559
+  }, {
+    "name" : "2_28088318.txt",
+    "user" : "AV45040",
+    "state" : "FINISHED",
+    "timestamp" : 1738788956093,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738788098019,
+    "updated" : 1738788958519
+  }, {
+    "name" : "common_28253085.txt",
+    "user" : "AV00440",
+    "state" : "FINISHED",
+    "timestamp" : 1738789865708,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738789198224,
+    "updated" : 1738789907812
+  }, {
+    "name" : "2_28084862.txt",
+    "user" : "AV45040",
+    "state" : "FINISHED",
+    "timestamp" : 1738790229498,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738789524651,
+    "updated" : 1738790234554
+  }, {
+    "name" : "common_28472931.txt",
+    "user" : "AV00440",
+    "state" : "FINISHED",
+    "timestamp" : 1738790312627,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738789910967,
+    "updated" : 1738790329899
+  }, {
+    "name" : "common_28490813.txt",
+    "user" : "AV00440",
+    "state" : "FINISHED",
+    "timestamp" : 1738791677982,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738790336890,
+    "updated" : 1738791785271
+  }, {
+    "name" : "3_28147376.txt",
+    "user" : "AV00440",
+    "state" : "FINISHED",
+    "timestamp" : 1738793916457,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738791807403,
+    "updated" : 1738793976413
+  }, {
+    "name" : "3_28155918.txt",
+    "user" : "AV00440",
+    "state" : "FINISHED",
+    "timestamp" : 1738794238508,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738793979144,
+    "updated" : 1738794280324
+  }, {
+    "name" : "3_28162764.txt",
+    "user" : "AV00440",
+    "state" : "FINISHED",
+    "timestamp" : 1738794459710,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738794283353,
+    "updated" : 1738794501071
+  }, {
+    "name" : "3_28167866.txt",
+    "user" : "AV00440",
+    "state" : "FINISHED",
+    "timestamp" : 1738794615956,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738794505515,
+    "updated" : 1738794654864
+  }, {
+    "name" : "3_28179361.txt",
+    "user" : "AV00440",
+    "state" : "FINISHED",
+    "timestamp" : 1738794997564,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738794658056,
+    "updated" : 1738795040152
+  }, {
+    "name" : "3_28183348.txt",
+    "user" : "AV00440",
+    "state" : "FINISHED",
+    "timestamp" : 1738795378284,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738795043432,
+    "updated" : 1738795415810
+  }, {
+    "name" : "1_27267962.txt",
+    "user" : "AU90360",
+    "state" : "FINISHED",
+    "timestamp" : 1738803587252,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738803057901,
+    "updated" : 1738803665809
+  }, {
+    "name" : "1_27274524.txt",
+    "user" : "AU90360",
+    "state" : "FINISHED",
+    "timestamp" : 1738804141893,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738803669329,
+    "updated" : 1738804214069
+  }, {
+    "name" : "1_27282454.txt",
+    "user" : "AU90360",
+    "state" : "FINISHED",
+    "timestamp" : 1738804552214,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738804216142,
+    "updated" : 1738804599157
+  }, {
+    "name" : "1_27291966.txt",
+    "user" : "AU90360",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1738804220852,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738804220832,
+    "updated" : 1738804220853
+  }, {
+    "name" : "1_27297967.txt",
+    "user" : "AU90360",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1738804221696,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738804221674,
+    "updated" : 1738804221696
+  }, {
+    "name" : "1_27303047.txt",
+    "user" : "AU90360",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1738804222821,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738804222794,
+    "updated" : 1738804222822
+  }, {
+    "name" : "3_28190392.txt",
+    "user" : "AV00440",
+    "state" : "FINISHED",
+    "timestamp" : 1738811717546,
+    "annotatorState" : "FINISHED",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1738810697358,
+    "updated" : 1738811825505
+  }, {
+    "name" : "1_26316050.txt",
+    "user" : "AT88720",
+    "state" : "IN_PROGRESS",
+    "timestamp" : 1739118464167,
+    "annotatorState" : "IN_PROGRESS",
+    "annotatorComment" : null,
+    "sentence_accessed" : 0,
+    "created" : 1739118464143,
+    "updated" : 1739118464167
+  } ],
+  "project_permissions" : [ {
+    "level" : "ADMIN",
+    "user" : "AT88720"
+  }, {
+    "level" : "CURATOR",
+    "user" : "AT88720"
+  }, {
+    "level" : "USER",
+    "user" : "AT88720"
+  }, {
+    "level" : "ADMIN",
+    "user" : "AU78760"
+  }, {
+    "level" : "CURATOR",
+    "user" : "AU78760"
+  }, {
+    "level" : "USER",
+    "user" : "AU78760"
+  }, {
+    "level" : "USER",
+    "user" : "AU90360"
+  }, {
+    "level" : "USER",
+    "user" : "AV00440"
+  }, {
+    "level" : "ADMIN",
+    "user" : "AV00680"
+  }, {
+    "level" : "CURATOR",
+    "user" : "AV00680"
+  }, {
+    "level" : "USER",
+    "user" : "AV00680"
+  }, {
+    "level" : "USER",
+    "user" : "AV45040"
+  } ],
+  "tag_sets" : [ {
+    "name" : "abbreviation_type",
+    "description" : null,
+    "language" : null,
+    "tags" : [ {
+      "tag_name" : "abbreviation",
+      "tag_description" : null
+    }, {
+      "tag_name" : "acronym",
+      "tag_description" : "Only contains the first letter of each thing it summarises."
+    }, {
+      "tag_name" : "reference_object",
+      "tag_description" : null
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "confidence_tag",
+    "description" : null,
+    "language" : null,
+    "tags" : [ {
+      "tag_name" : "high",
+      "tag_description" : null
+    }, {
+      "tag_name" : "low",
+      "tag_description" : null
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "medical_concept",
+    "description" : null,
+    "language" : null,
+    "tags" : [ {
+      "tag_name" : "injury_or_poisoning",
+      "tag_description" : null
+    }, {
+      "tag_name" : "pathology",
+      "tag_description" : null
+    }, {
+      "tag_name" : "physiological_function",
+      "tag_description" : null
+    }, {
+      "tag_name" : "symptom",
+      "tag_description" : null
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "medical_object",
+    "description" : null,
+    "language" : null,
+    "tags" : [ {
+      "tag_name" : "anatomy",
+      "tag_description" : null
+    }, {
+      "tag_name" : "bacteria_virus",
+      "tag_description" : null
+    }, {
+      "tag_name" : "organical_chemical",
+      "tag_description" : null
+    }, {
+      "tag_name" : "pharmacological_substance",
+      "tag_description" : null
+    } ],
+    "create_tag" : false
+  }, {
+    "name" : "medical_tag",
+    "description" : null,
+    "language" : null,
+    "tags" : [ {
+      "tag_name" : "anatomy",
+      "tag_description" : null
+    }, {
+      "tag_name" : "bacteria_virus",
+      "tag_description" : null
+    }, {
+      "tag_name" : "injury_or_poisoning",
+      "tag_description" : null
+    }, {
+      "tag_name" : "organical_chemical",
+      "tag_description" : null
+    }, {
+      "tag_name" : "pathology",
+      "tag_description" : null
+    }, {
+      "tag_name" : "pharmacologic_substance",
+      "tag_description" : null
+    }, {
+      "tag_name" : "physiologic_function",
+      "tag_description" : null
+    }, {
+      "tag_name" : "symptom",
+      "tag_description" : null
+    } ],
+    "create_tag" : false
+  } ],
+  "layers" : [ {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Sentence",
+    "features" : [ ],
+    "uiName" : "Sentence",
+    "type" : "span",
+    "description" : null,
+    "enabled" : false,
+    "built_in" : true,
+    "readonly" : true,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : false,
+    "cross_sentence" : true,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "NO_OVERLAP",
+    "validation_mode" : "NEVER",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "(MTI881-Team3) Annotation de publications médicales",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "de.tudarmstadt.ukp.dkpro.core.api.segmentation.type.Token",
+    "features" : [ ],
+    "uiName" : "Token",
+    "type" : "span",
+    "description" : null,
+    "enabled" : false,
+    "built_in" : true,
+    "readonly" : true,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "CHARACTERS",
+    "overlap_mode" : "NO_OVERLAP",
+    "validation_mode" : "NEVER",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : false,
+    "project_name" : "(MTI881-Team3) Annotation de publications médicales",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : null
+  }, {
+    "name" : "webanno.custom.Abbreviation",
+    "features" : [ {
+      "name" : "CUI",
+      "tag_set" : null,
+      "uiName" : "CUI",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : false,
+      "include_in_hover" : true,
+      "required" : true,
+      "remember" : true,
+      "hideUnconstraintFeature" : false,
+      "description" : "Identifiant UMLS.",
+      "project_name" : "(MTI881-Team3) Annotation de publications médicales",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : "{\"multipleRows\":false,\"dynamicSize\":false,\"collapsedRows\":1,\"expandedRows\":1,\"editorType\":\"AUTO\",\"keyBindings\":[]}",
+      "curatable" : true,
+      "rank" : 0
+    }, {
+      "name" : "abbreviation_type",
+      "tag_set" : {
+        "name" : "abbreviation_type",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "abbreviation_type",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : true,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Abréviation, acronyme ou objet de référence.",
+      "project_name" : "(MTI881-Team3) Annotation de publications médicales",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : "{\"multipleRows\":false,\"dynamicSize\":false,\"collapsedRows\":1,\"expandedRows\":1,\"editorType\":\"AUTO\",\"keyBindings\":[]}",
+      "curatable" : true,
+      "rank" : 0
+    }, {
+      "name" : "confidence",
+      "tag_set" : {
+        "name" : "confidence_tag",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "confidence",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Niveau de confiance.",
+      "project_name" : "(MTI881-Team3) Annotation de publications médicales",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : "{\"multipleRows\":false,\"dynamicSize\":false,\"collapsedRows\":1,\"expandedRows\":1,\"editorType\":\"AUTO\",\"keyBindings\":[]}",
+      "curatable" : true,
+      "rank" : 0
+    } ],
+    "uiName" : "abbreviation_layer",
+    "type" : "span",
+    "description" : "Layer pour les annotations d'abréviations, d'acronymes, d'objets de référence.",
+    "enabled" : true,
+    "built_in" : false,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : true,
+    "cross_sentence" : true,
+    "show_hover" : true,
+    "anchoring_mode" : "CHARACTERS",
+    "overlap_mode" : "ANY_OVERLAP",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : false,
+    "project_name" : "(MTI881-Team3) Annotation de publications médicales",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : "{\"coloringRules\":{\"rules\":[]}}"
+  }, {
+    "name" : "webanno.custom.Causes",
+    "features" : [ {
+      "name" : "Governor",
+      "tag_set" : null,
+      "uiName" : "Source",
+      "type" : "rel-source:webanno.custom.Medical",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Agent qui cause l'effet.",
+      "project_name" : "(MTI881-Team3) Annotation de publications médicales",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true,
+      "rank" : 0
+    }, {
+      "name" : "Dependent",
+      "tag_set" : null,
+      "uiName" : "Target",
+      "type" : "rel-target:webanno.custom.Medical",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Effet causé par l'agent.",
+      "project_name" : "(MTI881-Team3) Annotation de publications médicales",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true,
+      "rank" : 0
+    } ],
+    "uiName" : "causes",
+    "type" : "relation",
+    "description" : "Relie un agent qui cause un effet.",
+    "enabled" : true,
+    "built_in" : false,
+    "readonly" : false,
+    "attach_type" : {
+      "name" : "webanno.custom.Medical"
+    },
+    "attach_feature" : null,
+    "allow_stacking" : true,
+    "cross_sentence" : true,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "ANY_OVERLAP",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "(MTI881-Team3) Annotation de publications médicales",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : "{\"coloringRules\":{\"rules\":[]},\"renderArcs\":true,\"renderMode\":\"ALWAYS\"}"
+  }, {
+    "name" : "webanno.custom.Medical",
+    "features" : [ {
+      "name" : "CUI",
+      "tag_set" : null,
+      "uiName" : "CUI",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Identifiant UMLS.",
+      "project_name" : "(MTI881-Team3) Annotation de publications médicales",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : "{\"multipleRows\":false,\"dynamicSize\":false,\"collapsedRows\":1,\"expandedRows\":1,\"editorType\":\"AUTO\",\"keyBindings\":[]}",
+      "curatable" : true,
+      "rank" : 0
+    }, {
+      "name" : "confidence",
+      "tag_set" : {
+        "name" : "confidence_tag",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "confidence",
+      "type" : "uima.cas.String",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Niveau de confiance.",
+      "project_name" : "(MTI881-Team3) Annotation de publications médicales",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : "{\"multipleRows\":false,\"dynamicSize\":false,\"collapsedRows\":1,\"expandedRows\":1,\"editorType\":\"AUTO\",\"keyBindings\":[]}",
+      "curatable" : true,
+      "rank" : 0
+    }, {
+      "name" : "medical_type",
+      "tag_set" : {
+        "name" : "medical_tag",
+        "description" : null,
+        "language" : null,
+        "tags" : [ ],
+        "create_tag" : false
+      },
+      "uiName" : "medical_type",
+      "type" : "uima.cas.StringArray",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Terme médical, parmi une sélection de types de UMLS Semantics.",
+      "project_name" : "(MTI881-Team3) Annotation de publications médicales",
+      "multi_value_mode" : "ARRAY",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : "{}",
+      "curatable" : true,
+      "rank" : 0
+    } ],
+    "uiName" : "medical_layer",
+    "type" : "span",
+    "description" : "Layer pour les annotations de termes médicaux.",
+    "enabled" : true,
+    "built_in" : false,
+    "readonly" : false,
+    "attach_type" : null,
+    "attach_feature" : null,
+    "allow_stacking" : false,
+    "cross_sentence" : false,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "NO_OVERLAP",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "(MTI881-Team3) Annotation de publications médicales",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : "{\"coloringRules\":{\"rules\":[]}}"
+  }, {
+    "name" : "webanno.custom.Refers_to",
+    "features" : [ {
+      "name" : "Governor",
+      "tag_set" : null,
+      "uiName" : "Source",
+      "type" : "rel-source:webanno.custom.Abbreviation",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Référence (abréviation, acronyme)",
+      "project_name" : "(MTI881-Team3) Annotation de publications médicales",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true,
+      "rank" : 0
+    }, {
+      "name" : "Dependent",
+      "tag_set" : null,
+      "uiName" : "Target",
+      "type" : "rel-target:webanno.custom.Abbreviation",
+      "enabled" : true,
+      "visible" : true,
+      "include_in_hover" : false,
+      "required" : false,
+      "remember" : false,
+      "hideUnconstraintFeature" : false,
+      "description" : "Objet de référence.",
+      "project_name" : "(MTI881-Team3) Annotation de publications médicales",
+      "multi_value_mode" : "NONE",
+      "link_mode" : "NONE",
+      "link_type_name" : null,
+      "link_type_role_feature_name" : null,
+      "link_type_target_feature_name" : null,
+      "traits" : null,
+      "curatable" : true,
+      "rank" : 0
+    } ],
+    "uiName" : "refers_to",
+    "type" : "relation",
+    "description" : "Relation de référence. La flèche débute sur l'abréviation et se finit sur l'objet de référence.",
+    "enabled" : true,
+    "built_in" : false,
+    "readonly" : false,
+    "attach_type" : {
+      "name" : "webanno.custom.Abbreviation"
+    },
+    "attach_feature" : null,
+    "allow_stacking" : true,
+    "cross_sentence" : true,
+    "show_hover" : true,
+    "anchoring_mode" : "TOKENS",
+    "overlap_mode" : "ANY_OVERLAP",
+    "validation_mode" : "ALWAYS",
+    "lock_to_token_offset" : false,
+    "multiple_tokens" : true,
+    "project_name" : "(MTI881-Team3) Annotation de publications médicales",
+    "linked_list_behavior" : false,
+    "on_click_javascript_action" : null,
+    "traits" : "{\"coloringRules\":{\"rules\":[]},\"renderArcs\":true,\"renderMode\":\"WHEN_SELECTED\"}"
+  } ],
+  "disableExport" : false,
+  "script_direction" : "LTR",
+  "created" : 1737657314920,
+  "updated" : 1738212864101,
+  "anonymous_curation" : false,
+  "default-preferences" : [ {
+    "name" : "annotation/editor/curation-sidebar/manager",
+    "traits" : "{\"autoMergeCurationSidebar\":true}"
+  }, {
+    "name" : "curation/manager",
+    "traits" : "{\"curationPageType\":\"webanno\"}"
+  } ],
+  "knowledge_bases" : [ ],
+  "external_search" : [ ],
+  "curation_workflow" : {
+    "id" : 13,
+    "project" : {
+      "id" : 30,
+      "name" : "(MTI881-Team3) Annotation de publications médicales",
+      "slug" : "av00680",
+      "description" : "This project has no pre-defined layers. You will only be able to annotate after you have defined annotation layers in the project settings.",
+      "mode" : "annotation",
+      "version" : 1,
+      "disableExport" : false,
+      "scriptDirection" : "LTR",
+      "created" : 1737657314920,
+      "updated" : 1738212864101,
+      "state" : "ANNOTATION_IN_PROGRESS",
+      "anonymousCuration" : false
+    },
+    "mergeStrategy" : "completeAgreementNonStacked",
+    "mergeStrategyTraits" : null
+  },
+  "project_users" : [ ],
+  "recommenders" : [ ],
+  "learning_records" : [ ],
+  "gazeteers" : [ ],
+  "workload_manager" : {
+    "traits" : "{\"reopenableByAnnotator\":true,\"randomDocumentAccessAllowed\":true,\"documentResetAllowed\":true}",
+    "type" : "matrix"
+  },
+  "user-preferences" : [ {
+    "name" : "annotation/layers",
+    "traits" : "{\"layerColoringStrategy\":{\"89\":\"GRAY\",\"90\":\"GRAY\"},\"readonlyLayerColoringStrategy\":\"LEGACY\",\"hiddenLayers\":[]}",
+    "user" : "AU78760"
+  }, {
+    "name" : "annotation/layout",
+    "traits" : "{\"sidebarSizeLeft\":20,\"sidebarSizeRight\":20}",
+    "user" : "AU78760"
+  }, {
+    "name" : "annotation/left-sidebar",
+    "traits" : "{\"selectedTab\":\"annotationBrowserSidebarFactory\",\"expanded\":false}",
+    "user" : "AU78760"
+  }, {
+    "name" : "client-side/annotation/annotation-browser-sidebar",
+    "traits" : "{\"mode\":\"by-label\",\"sortByScore\":true,\"recommendationsFirst\":false}",
+    "user" : "AU78760"
+  }, {
+    "name" : "annotation/layers",
+    "traits" : "{\"layerColoringStrategy\":{\"89\":\"GRAY\",\"90\":\"GRAY\"},\"readonlyLayerColoringStrategy\":\"LEGACY\",\"hiddenLayers\":[]}",
+    "user" : "AT88720"
+  }, {
+    "name" : "annotation/layout",
+    "traits" : "{\"sidebarSizeLeft\":20,\"sidebarSizeRight\":20}",
+    "user" : "AT88720"
+  }, {
+    "name" : "annotation/left-sidebar",
+    "traits" : "{\"selectedTab\":\"annotationBrowserSidebarFactory\",\"expanded\":true}",
+    "user" : "AT88720"
+  }, {
+    "name" : "client-side/annotation/annotation-browser-sidebar",
+    "traits" : "{\"mode\":\"by-label\",\"sortByScore\":true,\"recommendationsFirst\":false}",
+    "user" : "AT88720"
+  }, {
+    "name" : "annotation/layers",
+    "traits" : "{\"layerColoringStrategy\":{\"89\":\"GRAY\",\"153\":\"STATIC_PASTELLE\",\"90\":\"GRAY\",\"155\":\"STATIC_PASTELLE\",\"143\":\"STATIC_PASTELLE\"},\"readonlyLayerColoringStrategy\":\"LEGACY\",\"hiddenLayers\":[]}",
+    "user" : "AV00680"
+  }, {
+    "name" : "annotation/layout",
+    "traits" : "{\"sidebarSizeLeft\":20,\"sidebarSizeRight\":20}",
+    "user" : "AV00680"
+  }, {
+    "name" : "annotation/left-sidebar",
+    "traits" : "{\"selectedTab\":\"annotationBrowserSidebarFactory\",\"expanded\":true}",
+    "user" : "AV00680"
+  }, {
+    "name" : "client-side/annotation/annotation-browser-sidebar",
+    "traits" : "{\"mode\":\"by-label\",\"sortByScore\":true,\"recommendationsFirst\":false}",
+    "user" : "AV00680"
+  }, {
+    "name" : "annotation/layers",
+    "traits" : "{\"layerColoringStrategy\":{\"164\":\"STATIC_PASTELLE\",\"89\":\"GRAY\",\"153\":\"STATIC_PASTELLE\",\"90\":\"GRAY\",\"155\":\"STATIC_PASTELLE\",\"143\":\"STATIC_PASTELLE\"},\"readonlyLayerColoringStrategy\":\"LEGACY\",\"hiddenLayers\":[]}",
+    "user" : "AU90360"
+  }, {
+    "name" : "annotation/layout",
+    "traits" : "{\"sidebarSizeLeft\":20,\"sidebarSizeRight\":20}",
+    "user" : "AU90360"
+  }, {
+    "name" : "annotation/left-sidebar",
+    "traits" : "{\"selectedTab\":\"annotationBrowserSidebarFactory\",\"expanded\":false}",
+    "user" : "AU90360"
+  }, {
+    "name" : "client-side/annotation/annotation-browser-sidebar",
+    "traits" : "{\"mode\":\"by-label\",\"sortByScore\":true,\"recommendationsFirst\":false}",
+    "user" : "AU90360"
+  }, {
+    "name" : "annotation/layers",
+    "traits" : "{\"layerColoringStrategy\":{\"164\":\"STATIC_PASTELLE\",\"89\":\"GRAY\",\"153\":\"STATIC_PASTELLE\",\"90\":\"GRAY\",\"155\":\"STATIC_PASTELLE\",\"143\":\"STATIC_PASTELLE\"},\"readonlyLayerColoringStrategy\":\"LEGACY\",\"hiddenLayers\":[]}",
+    "user" : "AV00440"
+  }, {
+    "name" : "annotation/layout",
+    "traits" : "{\"sidebarSizeLeft\":20,\"sidebarSizeRight\":20}",
+    "user" : "AV00440"
+  }, {
+    "name" : "annotation/left-sidebar",
+    "traits" : "{\"selectedTab\":\"annotationBrowserSidebarFactory\",\"expanded\":false}",
+    "user" : "AV00440"
+  }, {
+    "name" : "client-side/annotation/annotation-browser-sidebar",
+    "traits" : "{\"mode\":\"by-label\",\"sortByScore\":true,\"recommendationsFirst\":false}",
+    "user" : "AV00440"
+  }, {
+    "name" : "annotation/layers",
+    "traits" : "{\"layerColoringStrategy\":{\"164\":\"STATIC_PASTELLE\",\"89\":\"GRAY\",\"153\":\"STATIC_PASTELLE\",\"90\":\"GRAY\",\"155\":\"STATIC_PASTELLE\",\"143\":\"STATIC_PASTELLE\"},\"readonlyLayerColoringStrategy\":\"LEGACY\",\"hiddenLayers\":[]}",
+    "user" : "AV45040"
+  }, {
+    "name" : "annotation/layout",
+    "traits" : "{\"sidebarSizeLeft\":20,\"sidebarSizeRight\":20}",
+    "user" : "AV45040"
+  }, {
+    "name" : "annotation/left-sidebar",
+    "traits" : "{\"selectedTab\":\"annotationBrowserSidebarFactory\",\"expanded\":false}",
+    "user" : "AV45040"
+  }, {
+    "name" : "client-side/annotation/annotation-browser-sidebar",
+    "traits" : "{\"mode\":\"by-label\",\"sortByScore\":true,\"recommendationsFirst\":false}",
+    "user" : "AV45040"
+  } ]
+}
