@@ -17,7 +17,7 @@ We are going to use this file format. We just have to structure it a bit.
 
 https://www.tei-c.org/release/doc/tei-p5-doc/en/html/examples-TEI.html 
 
-=> On ne voit pas les étiquettes 
+=> On ne voit pas les étiquettes -> ah bon !!!!!
 
 ## Webanno TSV 
 
