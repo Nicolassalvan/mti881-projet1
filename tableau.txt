@@ -1,0 +1,13 @@
+Document
+Annotateur
+Layer
+CUI
+Type
+Confiance
+Relation
+Source
+Cible
+Texte
+Début
+Fin
+ID_unique
